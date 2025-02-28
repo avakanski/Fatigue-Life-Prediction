@@ -2,6 +2,8 @@
 
 Authors: Jiang Chang, Deekshith Basvoju, Aleksandar Vakanski, Indrajit Charit, Min Xian
 
+[![arXiv](https://img.shields.io/badge/arXiv-2501.15057-b31b1b)]([https://arxiv.org/pdf/2501.15057])
+
 Recent advancements in machine learning-based methods have demonstrated great potential for improved property prediction in material science. However, reliable estimation of the confidence intervals for the predicted values remains a challenge, due to the inherent complexities in material modeling. This study introduces a novel approach for uncertainty quantification in fatigue life prediction of metal materials based on integrating knowledge from physics-based fatigue life models and machine learning models. The proposed approach employs physics-based input features estimated using the Basquin fatigue model to augment the experimentally collected data of fatigue life. Furthermore, a physics-informed loss function that enforces boundary constraints for the estimated fatigue life of considered materials is introduced for the neural network models. 
 
 Experimental validation on datasets comprising collected data from fatigue life tests for Titanium alloys and Carbon steel alloys demonstrates the effectiveness of the proposed approach. Among the evaluated models, Bayesian Neural Networks with Markov Chain Monte Carlo (BNN-MCMC) provide the most accurate and reliable estimates. Gaussian Process Regression (GPR) also shows competitive performance. The findings highlight the potential of physics-informed machine learning methods for improved performance and uncertainty quantification in material science applications.  
