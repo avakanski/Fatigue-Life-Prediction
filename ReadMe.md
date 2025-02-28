@@ -33,5 +33,18 @@ pandas 1.5.3
 numpy 1.23.5  
 scikit-learn 1.2.2  
 
+# Citation
+If you use the dataset in your work, please use one of the following citations:   
+
+    @ARTICLE{Chang2024,
+    title={Predictive Modeling and Uncertainty Quantification of Fatigue Life in Metal Alloys using Machine Learning},
+    author={Chang, J. and Basvoju, D. and Vakanski, A. and Charit, I. and Xian, M.},
+    publisher={arXiv},
+    year={2024},
+    article-number={2501.15057},
+    url={https://arxiv.org/abs/2501.15057},
+    doi={https://doi.org/10.48550/arXiv.2501.15057}
+    }
+
 ## ✉️ Contact or Questions
 <a href="https://www.webpages.uidaho.edu/vakanski/">A. Vakanski</a>, e-mail: vakanski at uidaho.edu
